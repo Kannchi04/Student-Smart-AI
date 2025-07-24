@@ -2,8 +2,8 @@ import os
 import sqlite3
 import google.generativeai as genai
 
-# ✅ Configure Gemini API
-genai.configure(api_key="AIzaSyBkVqMJSQeJJaJnkSYQWfMdfFGSGQDT5SI")  # 🔁 Replace with your Gemini API key
+#Configure Gemini API
+genai.configure(api_key="GEMINI_API_KEY")  
 
 def get_schema(db_path):
     conn = sqlite3.connect(db_path)
