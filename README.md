@@ -84,9 +84,7 @@ The dataset includes multiple student-related academic and lifestyle factors suc
 
 ## 📸 Demo Preview
 
-<p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="StudentSmart AI Demo" width="100%">
-</p>
+<img width="838" height="794" alt="image" src="https://github.com/user-attachments/assets/cd5bfe78-ccb7-4542-8ad7-c5228bc03a7f" />
 
 ---
 
@@ -148,8 +146,4 @@ streamlit run app.py
 Contributions, suggestions, and improvements are welcome.
 
 ---
-
-## 📜 Preview
-
-<img width="838" height="794" alt="image" src="https://github.com/user-attachments/assets/cd5bfe78-ccb7-4542-8ad7-c5228bc03a7f" />
 
